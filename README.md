@@ -1,4 +1,4 @@
-# Drone Audio Perceptual Quality — Reproduction Guide
+# Drone Audio Perceptual Quality
 
 This repository contains the full pipeline for a study on perceived annoyance of drone audio across different environments, heights, and flight paths. The pipeline is split into two tracks — **subjective** (listening test analysis) and **objective** (computational audio metrics) — which are combined in the final analysis notebook.
 
@@ -10,7 +10,7 @@ The original uncut field and garden recordings are too large to host on GitHub a
 
 **[Download uncut_recordings/ from Google Drive](https://drive.google.com/drive/folders/1EtsDp_Bm6DJP6lyP01zH0368OVxMY77A?usp=sharing)**
 
-The folder contains two subfolders — `field/` and `garden/` — which should be placed directly inside `data/` to match the repository structure. These files are not used by any notebook and are provided for reference only.
+The folder contains two subfolders — `field/` and `garden/` — which are not used by any notebook and are provided for reference only, but contain the raw recordings from which the trimmed clips were taken from using Audacity.
 
 ---
 
