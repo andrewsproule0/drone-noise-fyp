@@ -20,8 +20,6 @@ The folder contains two subfolders — `field/` and `garden/` — which are not 
 project/
 ├── code/                   ← all notebooks live here
 ├── data/
-│   ├── field/              ← original long field recordings, used for Audacity trimming only
-│   ├── garden/             ← original long garden recordings, used for Audacity trimming only
 │   ├── trimmed/
 │   │   ├── raw/            ← original trimmed .wav files (input, do not delete)
 │   │   ├── lufs_normalised/← created by 0011
