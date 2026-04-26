@@ -1,0 +1,4 @@
+factor,group1,group2,meandiff,p-adj,lower,upper,reject
+environment,field,garden,-0.8889,0.0,-1.1312,-0.6466,True
+height,1m,3m,0.2222,0.1259,-0.0629,0.5073,False
+flight_path,flyby,hover,-0.3194,0.0274,-0.6029,-0.036,True
